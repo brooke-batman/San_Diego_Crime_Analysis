@@ -19,9 +19,8 @@ This project delivers an end-to-end empirical evaluation of municipal crime patt
 ---
 
 ## Data Source & Reproducibility
-* **Primary Source:** Official [City of San Diego Open Data Portal – Police NIBRS Offenses](https://data.sandiego.gov/datasets/police-nibrs/)
-* **Public Data Repository:** Due to GitHub repository size limits, raw datasets are maintained in a public Google Drive folder and auto-streamed into the notebook upon execution:  
-**[Access Raw SDPD CSV Datasets (Google Drive)](https://drive.google.com/drive/folders/14b64u14ys9cvJ7HaKwFZUvVTApmRrROD?usp=sharing)**
+* **Primary Source:** Official **[City of San Diego Open Data Portal – Police NIBRS Offenses](https://data.sandiego.gov/datasets/police-nibrs/)**
+* **Public Data Repository:** Due to GitHub repository size limits, raw datasets are maintained in a public Google Drive folder and auto-streamed into the notebook upon execution: **[Access Raw SDPD CSV Datasets (Google Drive)](https://drive.google.com/drive/folders/14b64u14ys9cvJ7HaKwFZUvVTApmRrROD?usp=sharing)**
 
 ---
 
