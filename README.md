@@ -21,12 +21,13 @@ This project delivers an end-to-end empirical evaluation of municipal crime patt
 ## Data Source & Reproducibility
 * **Primary Source:** Official **[City of San Diego Open Data Portal – Police NIBRS Offenses](https://data.sandiego.gov/datasets/police-nibrs/)**
 * **Public Data Repository:** Due to GitHub repository size limits, raw datasets are maintained in a public Google Drive folder and auto-streamed into the notebook upon execution: **[Access Raw SDPD CSV Datasets (Google Drive)](https://drive.google.com/drive/folders/14b64u14ys9cvJ7HaKwFZUvVTApmRrROD?usp=sharing)**
+> **Note on Plotly Visualizations:** GitHub's default web previewer disables interactive JavaScript rendering. To view all interactive charts and the Executive Dashboard, open the notebook directly in **[Google Colab](https://colab.research.google.com/drive/1VimIsin95ml-7U5Ea4UPJYQty90zLqel#scrollTo=62GpIlj1or3i)** or clone the repository locally.
 
 ---
 
 ## Project Structure
 ```text
-├── San_Diego_Crime_Analysis.ipynb   # Main Jupyter Notebook (Data Cleaning, EDA, Stats, Dashboard)
+├── San_Diego_Crime_Analysis.ipynb   # Main Notebook (Data Cleaning, EDA, Stats, Dashboard)
 ├── RESEARCH_BRIEF.md                # Applied Empirical Research Paper & Policy Recommendations
 ├── requirements.txt                 # Python dependencies for environment reproduction
 └── README.md                        # Project documentation and key executive findings
