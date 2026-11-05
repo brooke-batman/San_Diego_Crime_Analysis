@@ -28,7 +28,7 @@ This project delivers an end-to-end empirical evaluation of municipal crime patt
 ## Project Structure
 ```text
 ├── San_Diego_Crime_Analysis.ipynb   # Main Notebook (Data Cleaning, EDA, Stats, Dashboard)
-├── Research_Brief.md                # Applied Empirical Research Paper & Policy Recommendations
+├── Research_Brief .pdf              # Applied Empirical Research Paper & Policy Recommendations
 ├── requirements.txt                 # Python dependencies for environment reproduction
-└── README.md                        # Project documentation and key executive findings
+└── README.md                        # Project documentation and key executive findings                      
 ```
